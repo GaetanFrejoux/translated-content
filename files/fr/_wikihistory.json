@@ -19362,10 +19362,6 @@
       "Sheppy"
     ]
   },
-  "Web/Guide/API": {
-    "modified": "2019-03-23T23:08:38.035Z",
-    "contributors": ["SphinxKnight", "demangejeremy", "shing0608"]
-  },
   "Web/Guide/Audio_and_video_delivery": {
     "modified": "2019-03-23T22:00:15.299Z",
     "contributors": ["chrisdavidmills", "a-mt"]
@@ -19411,10 +19407,6 @@
   "Web/Guide/User_input_methods": {
     "modified": "2019-03-23T22:00:16.721Z",
     "contributors": ["chrisdavidmills", "a-mt"]
-  },
-  "Web/Guide/Writing_forward-compatible_websites": {
-    "modified": "2019-03-24T00:13:23.048Z",
-    "contributors": ["Dralyab", "pixelastic"]
   },
   "Web/HTML": {
     "modified": "2020-05-09T13:47:36.411Z",
@@ -27436,5 +27428,13 @@
       "si0ls",
       "dattaz"
     ]
+  },
+  "conflicting/Learn/Tools_and_testing/Cross_browser_testing/JavaScript": {
+    "modified": "2019-03-24T00:13:23.048Z",
+    "contributors": ["Dralyab", "pixelastic"]
+  },
+  "conflicting/Web/API": {
+    "modified": "2019-03-23T23:08:38.035Z",
+    "contributors": ["SphinxKnight", "demangejeremy", "shing0608"]
   }
 }

@@ -1172,7 +1172,7 @@
 /fr/docs/Du_DHTML_accessible	/fr/docs/Web/Accessibility/ARIA
 /fr/docs/Décoder_encoder_en_base64	/fr/docs/Glossary/Base64
 /fr/docs/Développement_Web	/fr/docs/Web/Guide
-/fr/docs/Développement_Web/Développer_des_sites_à_compatibilité_descendante	/fr/docs/Web/Guide/Writing_forward-compatible_websites
+/fr/docs/Développement_Web/Développer_des_sites_à_compatibilité_descendante	/fr/docs/conflicting/Learn/Tools_and_testing/Cross_browser_testing/JavaScript
 /fr/docs/Développement_Web/Introduction_au_développement_web	/fr/docs/Web/Guide/Introduction_to_Web_development
 /fr/docs/ECMAScript	/fr/docs/Web/JavaScript/JavaScript_technologies_overview
 /fr/docs/EXSLT	/fr/docs/Web/EXSLT
@@ -4732,6 +4732,7 @@
 /fr/docs/Web/Guide/AJAX/Community	/fr/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
 /fr/docs/Web/Guide/AJAX/Getting_Started	/fr/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
 /fr/docs/Web/Guide/AJAX/Premiers_pas	/fr/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
+/fr/docs/Web/Guide/API	/fr/docs/conflicting/Web/API
 /fr/docs/Web/Guide/API/DOM	/fr/docs/Web/API/Document_Object_Model
 /fr/docs/Web/Guide/API/DOM/Storage	/fr/docs/Web/API/Web_Storage_API
 /fr/docs/Web/Guide/API/Gamepad	/fr/docs/Web/API/Gamepad_API/Using_the_Gamepad_API
@@ -4788,6 +4789,7 @@
 /fr/docs/Web/Guide/HTML/Using_HTML5_audio_and_video	/fr/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content
 /fr/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines	/fr/docs/Web/HTML/Element/Heading_Elements
 /fr/docs/Web/Guide/Using_FormData_Objects	/fr/docs/Web/API/XMLHttpRequest_API/Using_FormData_Objects
+/fr/docs/Web/Guide/Writing_forward-compatible_websites	/fr/docs/conflicting/Learn/Tools_and_testing/Cross_browser_testing/JavaScript
 /fr/docs/Web/HTML/Appliquer_des_couleurs	/fr/docs/Web/CSS/CSS_colors/Applying_color
 /fr/docs/Web/HTML/Applying_color	/fr/docs/Web/CSS/CSS_colors/Applying_color
 /fr/docs/Web/HTML/Attributs	/fr/docs/Web/HTML/Attributes
@@ -6483,7 +6485,6 @@
 /fr/docs/conflicting/Tools/Page_Inspector/UI_Tour	https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/ui_tour/index.html
 /fr/docs/conflicting/Tools/Performance/Waterfall	https://firefox-source-docs.mozilla.org/devtools-user/performance/waterfall/index.html
 /fr/docs/conflicting/Tools/Responsive_Design_Mode	https://firefox-source-docs.mozilla.org/devtools-user/responsive_design_mode/index.html
-/fr/docs/conflicting/Web/API	/fr/docs/Web/API
 /fr/docs/conflicting/Web/API/Blob	/fr/docs/Web/API/Blob
 /fr/docs/conflicting/Web/API/CanvasRenderingContext2D/globalCompositeOperation	/fr/docs/Web/API/CanvasRenderingContext2D/globalCompositeOperation
 /fr/docs/conflicting/Web/API/Canvas_API/Tutorial	/fr/docs/Web/API/Canvas_API/Tutorial
