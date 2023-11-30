@@ -3647,6 +3647,10 @@
       "fuzz139"
     ]
   },
+  "Learn/Tools_and_testing/Cross_browser_testing/JavaScript": {
+    "modified": "2019-03-24T00:13:14.456Z",
+    "contributors": ["kohei.yoshino", "yyss"]
+  },
   "Learn/Tools_and_testing/Cross_browser_testing/Testing_strategies": {
     "modified": "2020-07-16T22:39:07.309Z",
     "contributors": ["Uemmra3", "silverskyvicto"]
@@ -20265,10 +20269,6 @@
       "Sheppy"
     ]
   },
-  "Web/Guide/API": {
-    "modified": "2019-11-24T06:54:13.469Z",
-    "contributors": ["mfuji09", "silverskyvicto", "Uemmra3", "Sheppy"]
-  },
   "Web/Guide/Audio_and_video_delivery": {
     "modified": "2019-04-07T08:59:12.823Z",
     "contributors": ["silverskyvicto", "chrisdavidmills", "stingray"]
@@ -20361,10 +20361,6 @@
       "ziyunfei",
       "Marsf"
     ]
-  },
-  "Web/Guide/Writing_forward-compatible_websites": {
-    "modified": "2019-03-24T00:13:14.456Z",
-    "contributors": ["kohei.yoshino", "yyss"]
   },
   "Web/HTML": {
     "modified": "2020-12-14T11:33:50.265Z",
@@ -30321,6 +30317,10 @@
   "conflicting/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide": {
     "modified": "2020-09-30T15:30:24.568Z",
     "contributors": ["chrisdavidmills", "dvincent"]
+  },
+  "conflicting/Web/API": {
+    "modified": "2019-11-24T06:54:13.469Z",
+    "contributors": ["mfuji09", "silverskyvicto", "Uemmra3", "Sheppy"]
   },
   "conflicting/Web/API/Document": {
     "modified": "2020-10-15T22:12:31.952Z",
